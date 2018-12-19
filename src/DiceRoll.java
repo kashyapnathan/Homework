@@ -4,7 +4,7 @@ import java.util.Scanner;
 /**
  * Kashyap Nathan
  */
-public class DiceRoll{
+public class DiceRoll {
 
 	public static void main(String[] args) 
 	{
